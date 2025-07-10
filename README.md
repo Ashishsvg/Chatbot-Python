@@ -51,7 +51,7 @@
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/voice-assistant-chitti.git
+git clone https://github.com/Ashishsvg/Chatbot-Python.git
 cd voice-assistant-chitti
 pip install -r requirements.txt
 If you don't have requirements.txt, use:
