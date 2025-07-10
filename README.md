@@ -79,3 +79,4 @@ Enter your name and click Start Assistant. Then speak commands like:
 "Exit"
 
 📸 Screenshot
+![Chitti Screenshot](images/ss.png)
